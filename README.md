@@ -32,13 +32,7 @@ PhishingURLDetector is a modern Android app built with **Kotlin** and **Jetpack 
 |-------------|------------------|---------|
 | ![Home](screenshots/homescreen.png) | ![Scan](screenshots/Scan.png) | ![Results](screenshots/results.png) |
 
-> ℹ️ **Note**: Replace the `screenshots/*.png` paths with your actual screenshot files.
 
----
 
-## 🚀 Getting Started
 
-1. **Clone this repository**
 
-```bash
-git clone https://github.com/YOUR-USERNAME/PhishingURLDetector.git
